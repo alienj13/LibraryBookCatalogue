@@ -33,6 +33,11 @@ public class Book {
     	
     }
     
+    public Book() {
+
+	
+}
+    
 	public Long getId() {
 		return id;
 	}
